@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://owenburton.github.io/author/</loc>
+  </url>
+  
+  <url>
     <loc>https://owenburton.github.io/authors/</loc>
   </url>
   
@@ -12,10 +16,6 @@
   
   <url>
     <loc>https://owenburton.github.io/</loc>
-  </url>
-  
-  <url>
-    <loc>https://owenburton.github.io/author/owen-burton/</loc>
   </url>
   
   <url>
